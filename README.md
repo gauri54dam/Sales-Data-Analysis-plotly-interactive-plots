@@ -9,12 +9,10 @@
 
 **Thus the classifier model backed by data science analysis like tree analysis and boosting methods provides binary classification that can be used as the main determinant evaluating the inventory.**
 
-Google site Link 
 
-https://sites.google.com/husky.neu.edu/salesdata
 
 Tools used 
 
 1. Python jupyter notebook
 2. Plotly chart studio for interactive plots
-3. Google site for visulizations and dashboard
+
